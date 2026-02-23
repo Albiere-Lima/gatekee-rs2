@@ -37,4 +37,4 @@ Certifique-se de ter o [Java JDK](https://adoptium.net/) e o [Maven](https://mav
 ### Clonando o repositório
 ```bash
 git clone https://github.com/Albiere-Lima/gatekee-rs2.git
-cd gatekee-rs2``
+cd gatekee-rs2```
