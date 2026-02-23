@@ -24,12 +24,14 @@
 **Compilando o projeto**
 
 ```bash
-mvn clean install```
+mvn clean install
+```
 
 **Executando a aplicação**
 
 ```bash
-java -jar target/gatekeeper-j2-1.0-SNAPSHOT.jar```
+java -jar target/gatekeeper-j2-1.0-SNAPSHOT.jar
+```
 
 ### Pré-requisitos
 Certifique-se de ter o [Java JDK](https://adoptium.net/) e o [Maven](https://maven.apache.org/) instalados.
@@ -37,4 +39,5 @@ Certifique-se de ter o [Java JDK](https://adoptium.net/) e o [Maven](https://mav
 ### Clonando o repositório
 ```bash
 git clone https://github.com/Albiere-Lima/gatekee-rs2.git
-cd gatekee-rs2```
+cd gatekee-rs2
+```
